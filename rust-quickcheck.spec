@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        1.0.3
-Release:        1
+Release:        2
 Summary:        Automatic property based testing with shrinking
 
 # Upstream license specification: Unlicense/MIT
