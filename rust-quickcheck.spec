@@ -4,8 +4,8 @@
 %global crate quickcheck
 
 Name:           rust-quickcheck
-Version:        1.0.3
-Release:        3
+Version:        1.1.0
+Release:        1
 Summary:        Automatic property based testing with shrinking
 
 # Upstream license specification: Unlicense/MIT
